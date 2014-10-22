@@ -3,7 +3,7 @@
 angular.module("ui.gsframe", []).directive("gsframe", function() {
 	return {
 		scope: {
-			src     : "@",
+			src     : "=",
 			frameSrc: "@",
 			height  : "@",
 			width   : "@",

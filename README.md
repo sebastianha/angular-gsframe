@@ -19,7 +19,7 @@ Add "ui.gsframe" to your modules list. Then you can use it like follows:
 
 ```
 <gsframe
-    src="{{img}}"
+    src="img"                (model variable)
     frame-src="frame.png"
     height="100px"
     width="120px"
