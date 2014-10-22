@@ -17,7 +17,7 @@ angular.module("ui.gsframe", []).directive("gsframe", function() {
 			"<div ng-style=\"imgStyle\">" + 
 				"<img ng-style=\"frameStyle\" ng-src=\"{{frameSrc}}\">" + 
 			"</div>",
-		link: function(scope, elem, attrs, modelCtrl) {
+		link: function(scope) {
 			scope.imgStyle = {
 				"background-image"   : "url(" + scope.src + ")",
 				"height"             : scope.height,
