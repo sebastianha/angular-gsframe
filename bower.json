@@ -1,0 +1,29 @@
+{
+  "name": "angular-gsframe",
+  "version": "0.1.0",
+  "authors": [
+    "Sebastian Hammerl, Getslash GmbH"
+  ],
+  "description": "A frame directive for images to use with AngularJS",
+  "main": [
+    "angular-gsframe.js"
+  ],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "image",
+    "frame"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.0"
+  },
+  "devDependencies": {
+    "angular-scenario": ">= 1.2.0"
+  }
+}
