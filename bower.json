@@ -4,7 +4,7 @@
   "authors": [
     "Sebastian Hammerl, Getslash GmbH"
   ],
-  "description": "A frame directive for images to use with AngularJS",
+  "description": "An image frame overlay for AngularJS",
   "main": [
     "angular-gsframe.js"
   ],
