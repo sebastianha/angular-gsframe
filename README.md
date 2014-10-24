@@ -29,7 +29,7 @@ Add "ui.gsframe" to your modules list. Then you can use it like follows:
 ></gsframe>
 ```
 
-See index.html for examples and how it works.
+See index.html and app.js for examples and how it works.
 
 ### Testing:
 

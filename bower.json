@@ -11,8 +11,10 @@
   "keywords": [
     "angular",
     "angularjs",
-    "image",
-    "frame"
+    "directive",
+    "ui",
+    "frame",
+    "image"
   ],
   "license": "MIT",
   "ignore": [
