@@ -1,6 +1,6 @@
 {
   "name": "angular-gsframe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     "Sebastian Hammerl, Getslash GmbH"
   ],
@@ -17,6 +17,7 @@
     "image"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/sebastianha/angular-gsframe",
   "ignore": [
     "**/.*",
     "node_modules",
